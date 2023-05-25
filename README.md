@@ -25,7 +25,7 @@ Here is an image of what we want once we are finished:
     └── ProjectList
         |   ProjectItem
         |   ProjectItem
-        └── ProjectItem
+        └── 
 ```
 
 ## Deliverables
