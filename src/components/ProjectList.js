@@ -8,7 +8,7 @@ function ProjectList({ projects }) {
   
   const projectItems = projects.map( (project) => {
     {projectId = project.id}
-    return(<ProjectItem name = {project.name} about = {project.about} technologies = {project.technologies} key = {project.id} />)
+    return(<ProjectItem name = {project.name} about = {project.about} technologies = {project.technologies} key= {project.id} />)
    } )
 
   return (
